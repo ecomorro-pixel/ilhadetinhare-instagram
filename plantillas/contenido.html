@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden}
+body{position:relative;font-family:"Public Sans",sans-serif}
+.bagel{font-family:"Bagel Fat One",sans-serif;font-weight:400}
+.accent{color:#DF8447}
+.track{position:absolute;bottom:0;left:0;right:0;height:6px;background:rgba(238,231,196,.15)}
+.bar{position:absolute;bottom:0;left:0;height:6px;background:#D8724D;width:{{progreso}}}
+.oscuro{background:linear-gradient(160deg,#4A3229 0%,#5B3E34 55%,#402C24 100%)}
+</style>
+</head>
+<body>
+<!-- Lámina de contenido (fondo marrón, sin foto). Campos: num, label, title, body. -->
+<div class="oscuro" style="position:absolute;inset:0"></div>
+<div class="bagel" style="position:absolute;top:-40px;right:-10px;font-size:420px;line-height:1;color:rgba(248,247,240,.06)">{{num}}</div>
+<div style="position:absolute;left:96px;right:96px;top:50%;transform:translateY(-50%)">
+<div style="font-size:22px;font-weight:700;letter-spacing:5px;text-transform:uppercase;color:#D8724D;margin-bottom:44px">{{label}}</div>
+<h2 class="bagel" style="font-size:58px;line-height:1.25;color:#F8F7F0;letter-spacing:-.3px">{{title}}</h2>
+<p style="margin-top:36px;font-size:32px;line-height:1.5;color:rgba(248,247,240,.82)">{{body}}</p>
+</div>
+<div style="position:absolute;left:96px;bottom:64px;font-size:17px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:rgba(238,231,196,.75)">Ilha de Tinharé</div>
+<div class="track"></div><div class="bar"></div>
+</body>
+</html>

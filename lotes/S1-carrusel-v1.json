@@ -1,0 +1,16 @@
+{
+  "id": "S1-carrusel-v1",
+  "tipo": "carrusel",
+  "pilar": "Island guide",
+  "publicar": "2026-10-21T10:00:00-03:00",
+  "caption": "Arriving in Morro de São Paulo can feel confusing the first time.\n\nHere are five things we wish every visitor knew before the trip: how the island works, why your route from Salvador matters, and where to go when you want a slower day.\n\nSend us your arrival date and we'll help you choose the easiest way to arrive.",
+  "laminas": [
+    { "plantilla": "portada", "campos": { "label": "Island guide", "title": "5 things to know before visiting *Morro de São Paulo*", "subtitle": "A calm guide for your first time on Ilha de Tinharé", "photo": "piscinas-naturales-quarta-praia.jpg", "alt": "Natural pools at Quarta Praia, Morro de São Paulo", "foco": "50% 60%" } },
+    { "plantilla": "contenido", "campos": { "num": "01", "label": "It's an island", "title": "Morro de São Paulo is on *Ilha de Tinharé*", "body": "You arrive by sea, so the way you travel from Salvador shapes the first day of your trip." } },
+    { "plantilla": "contenido", "campos": { "num": "02", "label": "How to arrive", "title": "There is more than *one route*", "body": "Regular, semi-terrestrial or private. Each one works differently depending on your flight time and your luggage." } },
+    { "plantilla": "contenido", "campos": { "num": "03", "label": "Beyond Morro", "title": "The island is *bigger* than its most famous village", "body": "Garapuá, Gamboa and Boipeba are part of the same coastline, each with its own pace." } },
+    { "plantilla": "contenido", "campos": { "num": "04", "label": "From the water", "title": "Some places are best seen *by boat*", "body": "Boat tours reach natural pools, hidden beaches and quiet villages around the island." } },
+    { "plantilla": "contenido", "campos": { "num": "05", "label": "No rush", "title": "Plan your arrival *before* you travel", "body": "It's not just about arriving, but about arriving without stress." } },
+    { "plantilla": "cierre", "campos": { "title": "Plan your arrival with people who *know the island*", "body": "Ask us about transfers and day tours around Ilha de Tinharé." } }
+  ]
+}

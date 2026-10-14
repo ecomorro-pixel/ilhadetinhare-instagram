@@ -35,7 +35,7 @@ jobs:
           if [ -n "${{ github.event.inputs.lote }}" ]; then
             LOTES="${{ github.event.inputs.lote }}"
           else
-            LOTES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'lotes/*.json')
+            LOTES=$(git show --name-only --diff-filter=AM --format= HEAD -- 'lotes/*.json')
           fi
           echo "Lotes: $LOTES"
           for l in $LOTES; do node render.mjs "$l"; done

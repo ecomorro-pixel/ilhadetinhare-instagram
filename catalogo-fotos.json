@@ -1,5 +1,5 @@
 {
-  "descripcion": "Catálogo de fotos permitidas de @ilhadetinhare. 'palabras' = términos del texto visible que justifican usar la foto. Fotos de Drive: en_repo=false + drive_id hasta que IG-IT-05 las copie a fotos/.",
+  "descripcion": "Catálogo de fotos permitidas de @ilhadetinhare. 'palabras' = términos del texto visible que justifican usar la foto. 'usada_en' = bases de lote donde ya se usó (una foto no se repite en otro lote). Fotos de Drive: en_repo=false + drive_id hasta que IG-IT-05 las copie a fotos/. Origen 'Rodrigo drone' (carpeta fotos Rama): pendiente confirmar si lleva crédito.",
   "fotos": [
     {
       "foto": "piscinas-naturales-quarta-praia.jpg",
@@ -8,9 +8,173 @@
       "usar": true,
       "en_repo": true,
       "drive_id": "",
-      "palabras": ["morro de são paulo", "morro de sao paulo", "morro", "quarta praia", "natural pools", "tinharé", "tinhare"],
+      "palabras": [
+        "morro de são paulo",
+        "morro de sao paulo",
+        "morro",
+        "quarta praia",
+        "natural pools",
+        "tinharé",
+        "tinhare"
+      ],
       "credito": "",
+      "nota": "",
+      "usada_en": [
+        "S1-carrusel"
+      ]
+    },
+    {
+      "foto": "morro-porto-do-cima-cais.jpg",
+      "original": "porto do cima e cais (Morro de São Paulo, vista aérea del puerto, barcos y faro)",
+      "categoria": "pueblo-puerto",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "1So9XkKa1bKQ-4GaExRC9oENEpyZXzO2-",
+      "palabras": [
+        "morro de são paulo",
+        "morro de sao paulo",
+        "morro",
+        "tinharé",
+        "tinhare",
+        "arrive by sea",
+        "island"
+      ],
+      "credito": "",
+      "usada_en": [
+        "S1-carrusel"
+      ],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
       "nota": ""
+    },
+    {
+      "foto": "gamboa-costa-hike-praia.jpg",
+      "original": "Hike praia Morro Gamboa (costa verde de Gamboa vista desde el aire)",
+      "categoria": "costa",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "1chzsDS1l6RKj1Br62iU86N3WYuZ0NKOD",
+      "palabras": [
+        "gamboa",
+        "garapuá",
+        "boipeba",
+        "coastline",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "",
+      "usada_en": [
+        "S1-carrusel"
+      ],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": ""
+    },
+    {
+      "foto": "gamboa-lancha-costa.jpg",
+      "original": "praia hike morro gamboa (lancha frente a la costa verde)",
+      "categoria": "costa-lancha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "1VsrP6xP8JueOT_05rZMmQL_IdHQSSSbx",
+      "palabras": [
+        "gamboa",
+        "boat",
+        "boats",
+        "by boat",
+        "boat tours",
+        "morro de são paulo",
+        "morro"
+      ],
+      "credito": "",
+      "usada_en": [
+        "S1-carrusel"
+      ],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": ""
+    },
+    {
+      "foto": "morro-farol-atardecer.jpg",
+      "original": "farol de morro (faro de Morro de São Paulo al atardecer)",
+      "categoria": "faro-atardecer",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "1AY6sBch_G4n8pU_mqLpVkRbOr7Nae1Ho",
+      "palabras": [
+        "morro de são paulo",
+        "morro",
+        "lighthouse",
+        "no rush",
+        "sunset",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "",
+      "usada_en": [
+        "S1-carrusel"
+      ],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": ""
+    },
+    {
+      "foto": "morro-tercera-praia-aerea.jpg",
+      "original": "tercera praia (Morro de São Paulo, frente del pueblo, vista aérea)",
+      "categoria": "pueblo-playa",
+      "usar": true,
+      "en_repo": false,
+      "drive_id": "1_pQDo1Q6TJ7z7_49SNnAEIa9ZeVdHt-i",
+      "palabras": [
+        "morro de são paulo",
+        "morro de sao paulo",
+        "morro",
+        "terceira praia",
+        "third beach",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "",
+      "usada_en": [],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": ""
+    },
+    {
+      "foto": "morro-quarta-praia-aerea.jpg",
+      "original": "4ta praia (Quarta Praia, Morro de São Paulo, arrecife y palmeral)",
+      "categoria": "playa",
+      "usar": true,
+      "en_repo": false,
+      "drive_id": "11amOt0yC7jEqPcBujIRBWvy0jspQPg3V",
+      "palabras": [
+        "quarta praia",
+        "fourth beach",
+        "morro de são paulo",
+        "morro de sao paulo",
+        "morro",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "",
+      "usada_en": [],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": ""
+    },
+    {
+      "foto": "morro-argila-atardecer.jpg",
+      "original": "argila (acantilado al atardecer, Morro de São Paulo)",
+      "categoria": "acantilado-atardecer",
+      "usar": true,
+      "en_repo": false,
+      "drive_id": "1AT1kxECNBcr772gwLi73e3r0DbkBEXuE",
+      "palabras": [
+        "argila",
+        "morro de são paulo",
+        "morro de sao paulo",
+        "morro",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "",
+      "usada_en": [],
+      "origen": "Drive: fotos Rama / Rodrigo drone",
+      "nota": "Lugar exacto por confirmar con Rama antes de nombrarlo en un texto"
     }
   ]
 }

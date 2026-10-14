@@ -1,0 +1,16 @@
+{
+  "descripcion": "Catálogo de fotos permitidas de @ilhadetinhare. 'palabras' = términos del texto visible que justifican usar la foto. Fotos de Drive: en_repo=false + drive_id hasta que IG-IT-05 las copie a fotos/.",
+  "fotos": [
+    {
+      "foto": "piscinas-naturales-quarta-praia.jpg",
+      "original": "Piscinas naturales de Quarta Praia, Morro de São Paulo",
+      "categoria": "playa",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": ["morro de são paulo", "morro de sao paulo", "morro", "quarta praia", "natural pools", "tinharé", "tinhare"],
+      "credito": "",
+      "nota": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "S1-carrusel-v3",
+  "tipo": "carrusel",
+  "pilar": "Island guide",
+  "publicar": "2026-10-21T10:00:00-03:00",
+  "caption": "Arriving in Morro de São Paulo can feel confusing the first time.\n\nHere are five things we wish every visitor knew before the trip: how the island works, how the transfer from Salvador goes, and where to go when you want a slower day.\n\nSend us your arrival date and we'll help you plan your transfer.",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "label": "Island guide",
+        "title": "5 things to know before visiting *Morro de São Paulo*",
+        "subtitle": "A calm guide for your first time on Ilha de Tinharé",
+        "photo": "piscinas-naturales-quarta-praia.jpg",
+        "alt": "Natural pools at Quarta Praia, Morro de São Paulo",
+        "foco": "50% 60%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "01",
+        "label": "It's an island",
+        "title": "Morro de São Paulo is on *Ilha de Tinharé*",
+        "body": "You arrive by sea, so the way you travel from Salvador shapes the first day of your trip.",
+        "photo": "morro-porto-do-cima-cais.jpg",
+        "alt": "Aerial view of the port and coast of Morro de São Paulo, with boats and the lighthouse",
+        "foco": "50% 55%"
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "02",
+        "label": "How to arrive",
+        "title": "How the *semi-terrestrial* transfer works",
+        "body": "A ferry across the Bay of All Saints, a van to Bom Jardim and a fast boat to Morro. About 4 to 5 hours in total, pick-up included."
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "03",
+        "label": "Beyond Morro",
+        "title": "The island is *bigger* than its most famous village",
+        "body": "Garapuá and Gamboa are villages on Ilha de Tinharé. Boipeba, a separate island in the same archipelago, is also part of the destination.",
+        "photo": "gamboa-costa-hike-praia.jpg",
+        "alt": "Green coast of Gamboa on Ilha de Tinharé, seen from above",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "04",
+        "label": "From the water",
+        "title": "Some places are best seen *by boat*",
+        "body": "The Volta Ilha day tour goes around the island by boat, with stops at places like Garapuá, Moreré and historic Cairu.",
+        "photo": "gamboa-lancha-costa.jpg",
+        "alt": "A boat leaving a wake along the coast near Morro de São Paulo",
+        "foco": "40% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "05",
+        "label": "No rush",
+        "title": "Plan your arrival *before* you travel",
+        "body": "It's not just about arriving, but about arriving without stress.",
+        "photo": "morro-farol-atardecer.jpg",
+        "alt": "The lighthouse of Morro de São Paulo at sunset",
+        "foco": "65% 50%"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Plan your arrival with people who *know the island*",
+        "body": "Ask us about transfers and day tours around Ilha de Tinharé."
+      }
+    }
+  ]
+}

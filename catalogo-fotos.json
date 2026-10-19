@@ -160,7 +160,7 @@
       "foto": "morro-argila-atardecer.jpg",
       "original": "argila (acantilado al atardecer, Morro de São Paulo)",
       "categoria": "acantilado-atardecer",
-      "usar": true,
+      "usar": false,
       "en_repo": true,
       "drive_id": "1AT1kxECNBcr772gwLi73e3r0DbkBEXuE",
       "palabras": [
@@ -176,11 +176,9 @@
         "fonte do céu"
       ],
       "credito": "",
-      "usada_en": [
-        "S1-unico"
-      ],
+      "usada_en": [],
       "origen": "Drive: fotos Rama / Rodrigo drone",
-      "nota": "Lugar exacto por confirmar con Rama antes de nombrarlo en un texto"
+      "nota": "YA ESTÁ EN EL PERFIL de @ilhadetinhare (Rama, 19-oct): no usar. Fue una foto candidata del post S1-unico (Fonte do Céu)."
     }
   ]
 }

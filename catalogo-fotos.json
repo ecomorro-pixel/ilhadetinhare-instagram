@@ -161,7 +161,7 @@
       "original": "argila (acantilado al atardecer, Morro de São Paulo)",
       "categoria": "acantilado-atardecer",
       "usar": true,
-      "en_repo": false,
+      "en_repo": true,
       "drive_id": "1AT1kxECNBcr772gwLi73e3r0DbkBEXuE",
       "palabras": [
         "argila",
@@ -169,10 +169,16 @@
         "morro de sao paulo",
         "morro",
         "tinharé",
-        "tinhare"
+        "tinhare",
+        "clay",
+        "natural clay",
+        "gamboa",
+        "fonte do céu"
       ],
       "credito": "",
-      "usada_en": [],
+      "usada_en": [
+        "S1-unico"
+      ],
       "origen": "Drive: fotos Rama / Rodrigo drone",
       "nota": "Lugar exacto por confirmar con Rama antes de nombrarlo en un texto"
     }

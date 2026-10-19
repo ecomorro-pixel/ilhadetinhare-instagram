@@ -1,0 +1,20 @@
+{
+  "id": "S1-unico-v1",
+  "tipo": "unico",
+  "pilar": "What to do",
+  "publicar": "2026-10-23T10:00:00-03:00",
+  "caption": "There is a quieter way to spend a day in Morro de São Paulo.\n\nThe Fonte do Céu Experience is a slow guided walk through the Atlantic Forest, with a stop at Fonte do Céu and a natural clay ritual by the sea. A shared small-group experience, with up to 8 guests.\n\nAsk us about the Fonte do Céu Experience and we'll help you plan it with our local team.",
+  "laminas": [
+    {
+      "plantilla": "unico-oscuro",
+      "campos": {
+        "intro": "A slow walk through the Atlantic Forest, a stop at Fonte do Céu and a simple clay ritual by the sea.",
+        "title": "Forest, *Fonte do Céu* and natural clay",
+        "cierre": "Shared small groups, up to 8 guests. Ask us about the Fonte do Céu Experience.",
+        "photo": "morro-argila-atardecer.jpg",
+        "alt": "Clay cliff glowing at sunset on the coast of Morro de São Paulo, with the moon above",
+        "foco": "50% 50%"
+      }
+    }
+  ]
+}

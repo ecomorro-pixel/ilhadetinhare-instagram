@@ -179,6 +179,85 @@
       "usada_en": [],
       "origen": "Drive: fotos Rama / Rodrigo drone",
       "nota": "YA ESTÁ EN EL PERFIL de @ilhadetinhare (Rama, 19-oct): no usar. Fue una foto candidata del post S1-unico (Fonte do Céu)."
+    },
+    {
+      "foto": "transfer-pulsera-semiterrestre.jpg",
+      "original": "Pulsera Semi Terrestre en la muñeca de un pasajero",
+      "categoria": "transfer",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "semi-terrestre",
+        "transfer",
+        "salvador",
+        "morro",
+        "step by step"
+      ],
+      "credito": "",
+      "nota": "Cuadro de video de Cata (transfer Salvador-Morro). Rama autorizó todo el material.",
+      "usada_en": [
+        "S2-carrusel"
+      ]
+    },
+    {
+      "foto": "transfer-ferry-bahia.jpg",
+      "original": "Estela del ferry cruzando la bahía",
+      "categoria": "transfer",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "ferry",
+        "bay",
+        "mar grande",
+        "crosses"
+      ],
+      "credito": "",
+      "nota": "Cuadro de video de Cata (transfer Salvador-Morro). Rama autorizó todo el material.",
+      "usada_en": [
+        "S2-carrusel"
+      ]
+    },
+    {
+      "foto": "transfer-lancha-rapida.jpg",
+      "original": "Lancha rápida con espuma junto al casco",
+      "categoria": "transfer",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "fast boat",
+        "bom jardim",
+        "sea",
+        "last stretch"
+      ],
+      "credito": "",
+      "nota": "Cuadro de video de Cata (transfer Salvador-Morro). Rama autorizó todo el material.",
+      "usada_en": [
+        "S2-carrusel"
+      ]
+    },
+    {
+      "foto": "transfer-caminando-mochila.jpg",
+      "original": "Viajera con mochila caminando por un paseo junto al mar",
+      "categoria": "transfer",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "guide",
+        "all the way",
+        "lounge",
+        "terminal",
+        "boarding",
+        "traveler"
+      ],
+      "credito": "",
+      "nota": "Cuadro de video de Cata. Se descartó el cuadro con pasajeros desconocidos.",
+      "usada_en": [
+        "S2-carrusel"
+      ]
     }
   ]
 }

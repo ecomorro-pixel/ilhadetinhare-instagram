@@ -1,0 +1,90 @@
+{
+  "id": "S2-carrusel-v1",
+  "tipo": "carrusel",
+  "pilar": "How to arrive",
+  "publicar": "2026-11-03T10:00:00-03:00",
+  "caption": "The trip from Salvador to Morro de São Paulo is easier when you know what each stretch looks like.\n\nA ferry across the bay, a van along the coast, and a fast boat for the last few minutes. We walk you through it step by step, plus a few things worth knowing before you land.\n\nSend us your arrival date and we'll help you choose how to get here.\n\n#MorroDeSaoPaulo #IlhaDeTinhare #HowToArrive #Bahia",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "label": "How to arrive",
+        "title": "From Salvador to Morro, *step by step*",
+        "subtitle": "What each stretch of the semi-terrestrial transfer looks like",
+        "photo": "transfer-pulsera-semiterrestre.jpg",
+        "alt": "A Semi Terrestre wristband on a passenger's wrist, with the sea behind",
+        "foco": "50% 35%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "01",
+        "label": "Salvador to Mar Grande",
+        "title": "It starts with a *ferry*",
+        "body": "From the Salvador terminal, a public ferry crosses the bay to Mar Grande in about 40 minutes.",
+        "photo": "transfer-ferry-bahia.jpg",
+        "alt": "The wake of a ferry crossing the bay of Salvador",
+        "foco": "50% 60%"
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "02",
+        "label": "Mar Grande to Bom Jardim",
+        "title": "Then an air-conditioned *van*",
+        "body": "About 130 km along the coast, around 1 hour 40 minutes, with no stops on the way."
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "03",
+        "label": "Bom Jardim to Morro",
+        "title": "The last stretch is *by sea*",
+        "body": "A fast boat covers the final crossing to Morro de São Paulo in about 12 minutes.",
+        "photo": "transfer-lancha-rapida.jpg",
+        "alt": "Spray along the hull of a fast boat crossing to Morro de São Paulo",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "04",
+        "label": "Along the way",
+        "title": "A guide with you *all the way*",
+        "body": "Before boarding there is a lounge near the terminal with water, a bathroom and air conditioning, so the wait is easy.",
+        "photo": "transfer-caminando-mochila.jpg",
+        "alt": "A traveler with a backpack walking along a seaside path",
+        "foco": "50% 45%"
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "05",
+        "label": "Good to know",
+        "title": "Plan *around* the transfer",
+        "body": "If you fly in, your flight should land at least 90 minutes before the transfer. When leaving Morro, be at the pier 30 minutes before departure."
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "06",
+        "label": "Other ways",
+        "title": "Prefer another *option*?",
+        "body": "Private transfers are also possible, and there is a catamaran too. The semi-terrestrial one is simply the most local way to arrive."
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Plan your arrival with people who *know the island*",
+        "body": "Send us your arrival date and we'll help you choose."
+      }
+    }
+  ]
+}

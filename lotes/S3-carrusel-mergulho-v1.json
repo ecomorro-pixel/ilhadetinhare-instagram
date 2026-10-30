@@ -1,0 +1,108 @@
+{
+  "id": "S3-carrusel-mergulho-v1",
+  "tipo": "carrusel",
+  "pilar": "What to do",
+  "publicar": "2026-11-05T10:00:00-03:00",
+  "caption": "Our snorkel mornings are planned around the tide.\n\nWe leave about 90 minutes before low tide, in a small group of up to six, with a PADI-certified instructor and all the equipment. No diving certification needed, and underwater photos and videos are included.\n\nNo rush. Just island time.\n\nAsk us about the snorkel outing and we'll help you plan it with our local team. WhatsApp +55 75 99715-4100 · link in bio\n\n#MorroDeSaoPaulo #IlhaDeTinhare #Snorkel #Bahia",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "label": "What to do",
+        "title": "A snorkel morning, *timed by the tide*",
+        "subtitle": "About three hours in a small group",
+        "photo": "mergulho-vadeo-lancha.jpg",
+        "alt": "Two people in wetsuits wading beside a boat with a blue canopy at low tide",
+        "foco": "50% 55%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "01",
+        "label": "The tide",
+        "title": "The tide sets the *time*",
+        "body": "We leave about 90 minutes before low tide. The exact time changes every day, so we confirm it the day before.",
+        "photo": "mergulho-marea-baja.jpg",
+        "alt": "A woman looking out over a flat beach at low tide, with the sky reflected in the water",
+        "foco": "50% 55%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "02",
+        "label": "Where we start",
+        "title": "From *Third* or Fourth Beach",
+        "body": "The boat leaves from Third Beach or Fourth Beach, depending on the sea conditions.",
+        "photo": "mergulho-caminata-lanchas.jpg",
+        "alt": "A group walking across the sand toward the boats at low tide",
+        "foco": "50% 60%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "03",
+        "label": "Small groups",
+        "title": "Never more than *six* people",
+        "body": "A small group means more time with your guide and more room in the water. The minimum age is 5.",
+        "photo": "mergulho-lancha-toldo-azul.jpg",
+        "alt": "Two people seated on a boat with a blue canopy",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "04",
+        "label": "No experience needed",
+        "title": "Snorkeling, *no certification* needed",
+        "body": "A PADI-certified instructor guides the outing, after a safety briefing. Knowing how to float helps, and shallow areas suit beginners and children.",
+        "photo": "mergulho-mascara-snorkel.jpg",
+        "alt": "A man adjusting his snorkel mask in the water",
+        "foco": "50% 40%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "05",
+        "label": "In the water",
+        "title": "Natural pools and *coral*",
+        "body": "The outing visits natural pools and coral areas, with clear water and marine life to watch. The snorkeling equipment is included.",
+        "photo": "mergulho-nadando-agua-clara.jpg",
+        "alt": "A person swimming with a snorkel in clear green water",
+        "foco": "25% 72%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "06",
+        "label": "Memories",
+        "title": "Photos and videos *underwater*",
+        "body": "Underwater photos and videos are included, so you take the day home with you.",
+        "photo": "mergulho-guia-en-agua.jpg",
+        "alt": "A guide and a guest smiling in the water",
+        "foco": "50% 45%"
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "07",
+        "label": "Good to know",
+        "title": "If the sea says *not today*",
+        "body": "When weather or sea conditions are not safe, the outing can be rescheduled or refunded."
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Plan your day with people who *know the island*",
+        "body": "Ask us about the snorkel outing and we'll help you plan it with our local team."
+      }
+    }
+  ]
+}

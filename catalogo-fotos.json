@@ -258,6 +258,138 @@
       "usada_en": [
         "S2-carrusel"
       ]
+    },
+    {
+      "foto": "mergulho-vadeo-lancha.jpg",
+      "original": "Dos personas con traje junto a la lancha de toldo azul en agua baja",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "snorkel",
+        "timed by the tide",
+        "tide",
+        "boat",
+        "morro"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-marea-baja.jpg",
+      "original": "Mujer frente a la playa con marea baja y reflejos",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "tide",
+        "low tide",
+        "90 minutes"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-caminata-lanchas.jpg",
+      "original": "Grupo caminando hacia las lanchas con marea baja",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "third beach",
+        "fourth beach",
+        "beach",
+        "boat"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-lancha-toldo-azul.jpg",
+      "original": "Dos personas sentadas en la lancha con toldo azul",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "small groups",
+        "six",
+        "boat",
+        "group"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-mascara-snorkel.jpg",
+      "original": "Hombre ajustándose la máscara de snorkel",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "snorkeling",
+        "certification",
+        "mask",
+        "instructor"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-nadando-agua-clara.jpg",
+      "original": "Persona nadando con snorkel en agua clara",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "natural pools",
+        "coral",
+        "clear water",
+        "marine life"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
+    },
+    {
+      "foto": "mergulho-guia-en-agua.jpg",
+      "original": "Guía y visitante sonriendo en el agua",
+      "categoria": "mar",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "photos and videos",
+        "underwater",
+        "memories"
+      ],
+      "credito": "",
+      "nota": "Foto del día de mergulho (carpeta de Drive de Rama, 29-oct). Rama autorizó el material.",
+      "usada_en": [
+        "S3-carrusel-mergulho"
+      ]
     }
   ]
 }

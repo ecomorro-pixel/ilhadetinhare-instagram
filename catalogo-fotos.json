@@ -390,6 +390,166 @@
       "usada_en": [
         "S3-carrusel-mergulho"
       ]
+    },
+    {
+      "foto": "trilha-camino-arcilla.jpg",
+      "original": "Dos caminantes con mochila por un camino de arcilla roja hacia el Mirante das Cores",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-salida-pueblo.jpg",
+      "original": "Dos caminantes con mochila saliendo a pie por una calle del pueblo",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-arroyo-agua-oscura.jpg",
+      "original": "Arroyo de agua oscura entre arena blanca y palmeras",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-campo-abierto.jpg",
+      "original": "Dos caminantes por un sendero de arena en campo abierto",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-atardecer.jpg",
+      "original": "Atardecer con rayos de luz sobre el horizonte, Mirante das Cores",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-luna.jpg",
+      "original": "Luna llena entre nubes de noche",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-guitarra-fogata.jpg",
+      "original": "Hombre tocando la guitarra junto a una fogata en la arena, de noche",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
+    },
+    {
+      "foto": "trilha-laguna.jpg",
+      "original": "Laguna tranquila entre árboles, en la ruta del Mirante das Cores",
+      "categoria": "trilha",
+      "usar": true,
+      "en_repo": true,
+      "drive_id": "",
+      "palabras": [
+        "trilha",
+        "mirante das cores",
+        "morro de são paulo",
+        "tinharé",
+        "tinhare"
+      ],
+      "credito": "Rama (fotos propias)",
+      "nota": "",
+      "usada_en": [
+        "S4-carrusel-trilha"
+      ]
     }
   ]
 }

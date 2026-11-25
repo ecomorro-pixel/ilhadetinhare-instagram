@@ -1,0 +1,120 @@
+{
+  "id": "S4-carrusel-trilha-v1",
+  "tipo": "carrusel",
+  "pilar": "What to do",
+  "publicar": "2026-11-27T10:00:00-03:00",
+  "caption": "A trail, a sunset and, if you want it, a night in nature.\n\nThe walk to the Mirante das Cores goes with a local guide, at an easy pace, to a viewpoint over the mainland hills and the clay canyons. We shape it around you, from an afternoon walk to a night under the stars.\n\nNo rush. Just island time.\n\nTell us what you have in mind and we'll design it with you. WhatsApp +55 75 99715-4100 · link in bio\n\n#MorroDeSaoPaulo #IlhaDeTinhare #Hiking #Bahia",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "label": "What to do",
+        "title": "A trail, a sunset and *a night in nature*",
+        "subtitle": "Mirante das Cores, made to measure",
+        "photo": "trilha-camino-arcilla.jpg",
+        "alt": "Two hikers with backpacks walking up a red clay road",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "01",
+        "label": "The start",
+        "title": "It starts *on foot*",
+        "body": "A walk with a local guide, at an easy pace. Bring a light backpack and leave the hurry behind.",
+        "photo": "trilha-salida-pueblo.jpg",
+        "alt": "Two hikers with backpacks walking down a village street",
+        "foco": "40% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "02",
+        "label": "On the way",
+        "title": "Sandy paths and *dark-water* streams",
+        "body": "The trail follows white sand and small streams with tea-colored water.",
+        "photo": "trilha-arroyo-agua-oscura.jpg",
+        "alt": "A dark-water stream between white sand banks and palm trees",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "03",
+        "label": "The landscape",
+        "title": "Clay, sand and *open fields*",
+        "body": "The ground changes color as you walk: red clay, pale sand and open fields.",
+        "photo": "trilha-campo-abierto.jpg",
+        "alt": "Two hikers on a sandy path across an open field",
+        "foco": "35% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "04",
+        "label": "The viewpoint",
+        "title": "Sunset over the *mainland hills*",
+        "body": "The Mirante das Cores looks out over the mainland hills and the clay canyons. The walk is made for the afternoon, so you arrive as the light falls.",
+        "photo": "trilha-atardecer.jpg",
+        "alt": "Sunset rays breaking through clouds over a dark horizon",
+        "foco": "50% 40%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "05",
+        "label": "After dark",
+        "title": "When the light goes, *the moon rises*",
+        "body": "Staying the night is one of the ways we shape this immersion. Some nights, the full moon is part of the plan.",
+        "photo": "trilha-luna.jpg",
+        "alt": "A full moon surrounded by clouds in the night sky",
+        "foco": "40% 55%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "06",
+        "label": "Camping",
+        "title": "A small *fire*, a guitar",
+        "body": "Camping at the Mirante das Cores is a made-to-measure immersion. We design it with you and tell you what is possible for your dates.",
+        "photo": "trilha-guitarra-fogata.jpg",
+        "alt": "A man playing guitar on the sand beside a small campfire at night",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido-foto",
+      "campos": {
+        "num": "07",
+        "label": "Quiet stops",
+        "title": "A quiet *lagoon* along the way",
+        "body": "Time to stop, listen and look around. The best part of a trail like this is not arriving fast.",
+        "photo": "trilha-laguna.jpg",
+        "alt": "A calm lagoon surrounded by trees",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "contenido",
+      "campos": {
+        "num": "08",
+        "label": "Good to know",
+        "title": "Made *to measure*",
+        "body": "Mirante das Cores is not a fixed outing. We shape it around you, from an afternoon walk to a night in nature."
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Design it with people who *know the island*",
+        "body": "Tell us what you have in mind and we'll help you plan it with our local team."
+      }
+    }
+  ]
+}
